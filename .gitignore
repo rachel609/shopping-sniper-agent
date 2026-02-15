@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+data/price_log.json
+
+# Personal notes & logs
+*.txt
+!requirements.txt
+*.docx
+CLAUDE.md
+model_api - Copy.py
+test_google_search.py
